@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/MovieSearchApp/static/css/main.74ca84d3.chunk.css",
-    "main.js": "/MovieSearchApp/static/js/main.5dc6d08f.chunk.js",
-    "main.js.map": "/MovieSearchApp/static/js/main.5dc6d08f.chunk.js.map",
-    "runtime-main.js": "/MovieSearchApp/static/js/runtime-main.10a3f4be.js",
-    "runtime-main.js.map": "/MovieSearchApp/static/js/runtime-main.10a3f4be.js.map",
-    "static/js/2.f65b9b75.chunk.js": "/MovieSearchApp/static/js/2.f65b9b75.chunk.js",
-    "static/js/2.f65b9b75.chunk.js.map": "/MovieSearchApp/static/js/2.f65b9b75.chunk.js.map",
-    "static/js/3.c97054e7.chunk.js": "/MovieSearchApp/static/js/3.c97054e7.chunk.js",
-    "static/js/3.c97054e7.chunk.js.map": "/MovieSearchApp/static/js/3.c97054e7.chunk.js.map",
-    "index.html": "/MovieSearchApp/index.html",
-    "static/css/main.74ca84d3.chunk.css.map": "/MovieSearchApp/static/css/main.74ca84d3.chunk.css.map",
-    "static/js/2.f65b9b75.chunk.js.LICENSE.txt": "/MovieSearchApp/static/js/2.f65b9b75.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/MovieSearchApp/static/media/logo.6ce24c58.svg"
+    "main.css": "/movie-search/static/css/main.74ca84d3.chunk.css",
+    "main.js": "/movie-search/static/js/main.5dc6d08f.chunk.js",
+    "main.js.map": "/movie-search/static/js/main.5dc6d08f.chunk.js.map",
+    "runtime-main.js": "/movie-search/static/js/runtime-main.36c661fb.js",
+    "runtime-main.js.map": "/movie-search/static/js/runtime-main.36c661fb.js.map",
+    "static/js/2.f65b9b75.chunk.js": "/movie-search/static/js/2.f65b9b75.chunk.js",
+    "static/js/2.f65b9b75.chunk.js.map": "/movie-search/static/js/2.f65b9b75.chunk.js.map",
+    "static/js/3.c97054e7.chunk.js": "/movie-search/static/js/3.c97054e7.chunk.js",
+    "static/js/3.c97054e7.chunk.js.map": "/movie-search/static/js/3.c97054e7.chunk.js.map",
+    "index.html": "/movie-search/index.html",
+    "static/css/main.74ca84d3.chunk.css.map": "/movie-search/static/css/main.74ca84d3.chunk.css.map",
+    "static/js/2.f65b9b75.chunk.js.LICENSE.txt": "/movie-search/static/js/2.f65b9b75.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/movie-search/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.10a3f4be.js",
+    "static/js/runtime-main.36c661fb.js",
     "static/js/2.f65b9b75.chunk.js",
     "static/css/main.74ca84d3.chunk.css",
     "static/js/main.5dc6d08f.chunk.js"
